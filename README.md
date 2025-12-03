@@ -1,3 +1,5 @@
+- UNZIP THE IMAGE FILES BEFORE YOU RUN ANY OF THIS CODE!!
+
 - image_recropper and image_resizer were used to clean the data beforehand.
 
 - id_scraper was used to gather a dataset (sourced from my own YouTube channel)
